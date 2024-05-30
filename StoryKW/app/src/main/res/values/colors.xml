@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="navy">#2D3D4F</color>
+
+    <!-- <color name="colorPrimary">@color/my_light_primary</color> -->
+    <color name="colorPrimary">#bd0e24</color>
+    <color name="colorOnPrimary">#ffffff</color>
+    <color name="colorPrimaryContainer">#ffffff</color>
+    <color name="colorOnContainer">#410005</color>
+    <color name="colorSecondary">#006d43</color>
+    <color name="colorOnSecondary">#ffffff</color>
+    <color name="colorSecondaryContainer">#92f7bc</color>
+    <color name="colorOnSecondaryContainer">#002111</color>
+    <color name="colorTertiary">#046d37</color>
+    <color name="colorOnTertiary">#ffffff</color>
+    <color name="colorTertiaryContainer">#9cf6b1</color>
+    <color name="colorOnTertiaryContainer">#00210c</color>
+    <color name="colorError">#ba1a1a</color>
+    <color name="colorOnError">#ffffff</color>
+    <color name="colorErrorContainer">#ffdad6</color>
+    <color name="colorOnErrorContainer">#410002</color>
+    <color name="backgroundColor">#f7ffee</color>
+    <color name="background">#f7ffee</color>
+    <color name="colorOnBackground">#002200</color>
+    <color name="colorSurface">#f7ffee</color>
+    <color name="colorOnSurface">#002200</color>
+    <color name="colorOutline">#857371</color>
+    <color name="colorSurfaceVariant">#f4dddb</color>
+    <color name="colorOnSurfaceVariant">#534342</color>
+
+
+    <!-- <color name="colorPrimary">@color/my_dark_primary</color> -->
+    <color name="colorPrimary2">#ffb3af</color>
+    <color name="colorOnPrimary2">#68000d</color>
+    <color name="colorPrimaryContainer2">#930017</color>
+    <color name="colorOnContainer2">#ffdad7</color>
+    <color name="colorSecondary2">#76daa2</color>
+    <color name="colorOnSecondary2">#003920</color>
+    <color name="colorSecondaryContainer2">#005231</color>
+    <color name="colorOnSecondaryContainer2">#92f7bc</color>
+    <color name="colorTertiary2">#81d997</color>
+    <color name="colorOnTertiary2">#003919</color>
+    <color name="colorTertiaryContainer2">#005228</color>
+    <color name="colorOnTertiaryContainer2">#9cf6b1</color>
+    <color name="colorError2">#ffb4ab</color>
+    <color name="colorOnError2">#690005</color>
+    <color name="colorErrorContainer2">#93000a</color>
+    <color name="colorOnErrorContainer2">#ffdad6</color>
+    <color name="backgroundColor2">#002200</color>
+    <color name="background2">#002200</color>
+    <color name="colorOnBackground2">#b0f49e</color>
+    <color name="colorSurface2">#002200</color>
+    <color name="colorOnSurface2">#b0f49e</color>
+    <color name="colorOutline2">#a08c8b</color>
+    <color name="colorSurfaceVariant2">#534342</color>
+    <color name="colorOnSurfaceVariant2">#d8c2c0</color>
+</resources>

@@ -1,0 +1,36 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GithubKW" parent="Theme.Material3.DayNight">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">@color/colorPrimary2</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary2</item>
+        <item name="colorPrimaryContainer">@color/colorPrimaryContainer2</item>
+        <item name="colorOnContainer">@color/colorOnContainer2</item>
+
+        <item name="colorSecondary">@color/colorSecondary2</item>
+        <item name="colorOnSecondary">@color/colorOnSecondary2</item>
+        <item name="colorSecondaryContainer">@color/colorSecondaryContainer2</item>
+        <item name="colorOnSecondaryContainer">@color/colorOnSecondaryContainer2</item>
+
+        <item name="colorTertiary">@color/colorTertiary2</item>
+        <item name="colorOnTertiary">@color/colorOnTertiary2</item>
+        <item name="colorTertiaryContainer">@color/colorTertiaryContainer2</item>
+        <item name="colorOnTertiaryContainer">@color/colorOnTertiaryContainer2</item>
+
+        <item name="colorError">@color/colorError2</item>
+        <item name="colorOnError">@color/colorOnError2</item>
+        <item name="colorErrorContainer">@color/colorErrorContainer2</item>
+        <item name="colorOnErrorContainer">@color/colorOnErrorContainer2</item>
+
+        <item name="backgroundColor">@color/backgroundColor2</item>
+        <item name="background">@color/background2</item>
+        <item name="colorOnBackground">@color/colorOnBackground2</item>
+        <item name="colorSurface">@color/colorSurface2</item>
+        <item name="colorOnSurface">@color/colorOnSurface2</item>
+
+        <item name="colorOutline">@color/colorOutline2</item>
+        <item name="colorSurfaceVariant">@color/colorSurfaceVariant2</item>
+        <item name="colorOnSurfaceVariant">@color/colorOnSurfaceVariant2</item>
+    </style>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GithubKW</string>
+    <string name="search">Cari Username</string>
+    <string name="follower">Follower Here</string>
+    <string name="following">Followimg Here</string>
+    <string name="username">Username Here</string>
+    <string name="tab1">Followers</string>
+    <string name="tab2">Following</string>
+    <string name="favorite">Favorite</string>
+    <string name="light">light Mode</string>
+    <string name="dark">Dark Mode</string>
+    <string name="settings">Settings</string>
+</resources>
