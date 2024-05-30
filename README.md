@@ -1,6 +1,6 @@
 <div align="center">
 <h1> Bangkit Batch 6 2024: Mobile Development Dicoding Assignment </h1>
-<p>This repository contains 2 submissions for my Dicoding Bangkit Mobile Development courses, This course is a part of self-paced learning at Bangkit Batch 6 2024 Mobile Development learning path.</p>
+<p>This repository contains 2 submissions for my Dicoding Bangkit Mobile Development courses, This course is a part of self-paced learning at Bangkit Batch 1 2024 Mobile Development learning path.</p>
 </div>
 
 ## ⚠️ Disclaimer 
